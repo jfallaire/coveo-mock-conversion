@@ -166,4 +166,4 @@ Keep in mind that Coveo conversion script are in fact only [*For Coveo Cloud V1*
 * PostConversion Object reference link : <http://api.developers.coveo.com/ces/7.0/#CESCustomConverter~PostConversion.html>
 * [Postconversion Script Sample](https://developers.coveo.com/display/public/Converter/Postconversion+Script+Samples)
 
-
+Enjoy! Feel free to contribute :)
