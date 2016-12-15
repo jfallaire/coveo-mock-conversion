@@ -1,7 +1,7 @@
 # coveo-mock-conversion
 Mock Coveo Conversion [for Coveo Cloud V1 platform] for testing pre/post conversion scripts
 
-This mock-conversion script is meant to basically smoke test your post conversion script (also known as Custom Script in Coveo Cloud V1) because there is currently no way to debug or see traces within the Coveo Cloud V1 platform which can be very annoying. This script is taking 2 mandatory input parameters : your environment and your conversion script. You first need to specify a mock environment (JSON format) which will represent a list of fake indexed documents that will be used as input for the conversion script. Common conversion script tasks: Update the document extracted text and HTML, read and modify metadata, reject documents, etc.
+This mock-conversion script is meant for smoke testing your post conversion script (also known as Custom Script in Coveo Cloud V1) because there is currently no way to debug or see traces within the Coveo Cloud V1 platform which can be very annoying. This script is taking 2 mandatory input parameters : your environment and your conversion script. You first need to specify a mock environment (JSON format) which will represent a list of fake indexed documents that will be used as input for the conversion script. Common conversion script tasks: Update the document extracted text and HTML, read and modify metadata, reject documents, etc.
 
 ## Install
     npm install
