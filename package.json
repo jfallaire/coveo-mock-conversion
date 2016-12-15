@@ -1,0 +1,15 @@
+{
+  "name": "coveo-mock-conversion",
+  "version": "1.0.0",
+  "description": "tool used for mocking post conversion script",
+  "main": "mocking-script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jfallaire",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.9.0",
+    "underscore": "^1.8.3"
+  }
+}
