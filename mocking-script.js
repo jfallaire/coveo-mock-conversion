@@ -7,6 +7,7 @@ var vm = require('vm');
 
 DocumentInfo = require('./DocumentInfo.js');
 PostConversion = require('./PostConversion.js');
+ActiveXObject = require('./ActiveXObject.js');
 
 // Mocking VBArray
 VBArray = function(string){
